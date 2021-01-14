@@ -1,5 +1,6 @@
 # film-festival
 This a film festival hosted in Boston that showcases films being viewed at particular dates using html, css and bootstrap
+https://chepkuruipurity.github.io/film-festival/films.html
 
 ## 1. Website prototype
 You'll need to make a first version of the site that meets all the requirements Jennifer explained above. The website prototype should be in HTML and CSS with or without Bootstrap as you wish. You can use a Bootstrap them if you want. You don't actually need to buy the .com or the .org though; you can simply propose it in your project brief.
